@@ -18,10 +18,10 @@ We can see here that the loss and the accuracy of the train aand validation are 
 After the sanity check we will train are modle to get the maximum accuracy,
 By changing the parameters like learning rate, kernel size, bach size, number of epochs etc.
 
-We can see here that we have overffiting in some points but that's fine, in every epoch we save the best modle.
+We can see here that we have overffiting in some points but that's fine, in every epoch we save the best model.
 
 ![image](https://github.com/omer1C/Image-classification-/assets/135855862/96e3e3f1-79b1-4422-8cef-2a62492c1a4a)
 
-The best modle and parameters achieved here:
+The best model and parameters achieved here:
 ![image](https://github.com/omer1C/Image-classification-/assets/135855862/6cee346e-08e9-43cc-bdc5-0dca24a4e98e)
 
