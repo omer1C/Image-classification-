@@ -1,5 +1,5 @@
 In this project I build a convolutional neural network that can predict whether two shoes are from the same pair or from two different pairs.
-We will using two different approaches, the firs one will be CNN, that every entery in the data will be to picture of the same sohe one on each other,
+I will be using two different approaches, the firs one will be CNN, that every entery in the data will be to picture of the same sohe one on each other,
 left and right. The second one will be CNN channel, with every entery of the data will include 2 diffrente images.
 ![image](https://github.com/omer1C/Image-classification-/assets/135855862/700126e9-4a56-4ab3-8527-4ed4cc3dc46a)
 
